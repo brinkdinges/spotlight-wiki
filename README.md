@@ -1,4 +1,7 @@
 # Spotlight Wiki
+Welkom bij Spotlight, de leukste coworking space voor ondernemers in Enschede.
+
+In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informatie netjes op één plek verzameld.
 
 # Voordeur
 Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
@@ -8,19 +11,36 @@ Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem 
 
 # Verlichting
 Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie plekken:
-    1. Beneden op een pilaar links
-    2. Boven op de tablet 
-    3. Boven op de knop rechts van de tablet. 
+
+1. Beneden op een pilaar links
+2. Boven op de tablet 
+3. Boven op de knop rechts van de tablet. 
+
 Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verlichting in de spreekkamer beneden moet je even apart uitzetten.
 
 # Spreekkamers
 We hebben drie spreekkamers en een belcel genaamd Bella:
-    1. Kamer 1: beneden, 6 personen, TV met Chromecast, whiteboard 
-    2. Kamer 2: boven links, 4 personen
-    3. Kamer 3: boven rechts, 6 personen, TV met Chromecast, whiteboard 
-    4. Belcel: 1-2 personen 
+
+1. Kamer 1: beneden:
+ - 6 personen
+ - TV met Chromecast
+ - Whiteboard 
+2. Kamer 2: boven links
+ - 4 personen
+3. Kamer 3: boven rechts
+ - 6 personen
+ - TV met Chromecast
+ - whiteboard 
+4. Belcel:
+ - 1-2 personen 
+
 Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan hebben we hier binnenkort een site voor. Dan betaal je 5 euro per uur. Externen betalen 25-30 euro per uur.
-Elke spreekkamer heeft twee schakelaars. De bovenste is voor verlichting, de onderste is voor de ventilatie. In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
+
+Elke spreekkamer heeft twee schakelaars:
+- De bovenste is voor verlichting
+- De onderste is voor de ventilatie. De spreekkamers boven delen een ventilator, dus deze gaat aan als één van de spreekkamers de schakelaar aan zet.
+
+In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
 
 # Koffie, thee, bier
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
@@ -66,10 +86,10 @@ Elke laatste woensdag van de maand houden we een Community Night. Soms gaan we i
 Meestal begint het programma om 19:30, daarvoor bestellen we iets te eten. Alles is optioneel. 
 
 # Afval
-    • Papier: mag in een doos gelabeld “oud papier” in de voorraadkast.
-    • Glas: mag in de voorraadkast
-    • Rest: in de zwarte container in de keuken, de rechter bak. 
-    • Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
+- Papier: mag in een doos gelabeld “oud papier” in de voorraadkast.
+- Glas: mag in de voorraadkast
+- Rest: in de zwarte container in de keuken, de rechter bak. 
+- Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
 
 # Zonwering 
 Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
