@@ -11,6 +11,8 @@ Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem 
 
 Het afsluiten werkt net zo, maar nu draai je twee keer de andere kant op. 
 
+Pas op bij het sluiten van de deur, het slot komt net tegen het kozijn aan en bij Jacco is hij al eens afgebroken. Het slot is net niet helemaal rond, dus soms kun je het aanlopen verminderen door het slot een klein stukje te verdraaien.
+
 ![2025-05-28 14 28 51](https://github.com/user-attachments/assets/938ed0e9-064e-4da0-b7f3-25249c895365)
 
 Als je een Android hebt kun je ook de app openen en je telefoon tegen het slot aanhouden. Dan gebruikt hij NFC in plaats van Bluetooth. Deze optie is niet beschikbaar voor iOS.
