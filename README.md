@@ -8,6 +8,7 @@ Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app
 Ben je als eerste op kantoor dan kun je hiermee de deur openen, ga je als laatste weg dan graag de deur op slot draaien. Hij gaat niet automatisch op slot namelijk. Ben je op rare tijden alleen aanwezig dan kun je de deur altijd op slot draaien van binnenuit.
 
 Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem aan te raken. Open de app. De app gaat via bluetooth zoeken naar het voordeurslot en er komt een knop in beeld. Druk op die knop en de lampjes op het slot worden groen. Nu heb je een paar seconden om het slot twee keer rond te draaien. Dit geldt voor zowel het openen als het afsluiten.
+![2025-05-28 14 28 51](https://github.com/user-attachments/assets/938ed0e9-064e-4da0-b7f3-25249c895365)
 
 # Verlichting
 Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie plekken:
@@ -15,6 +16,8 @@ Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie ple
 1. Beneden op een pilaar links
 2. Boven op de tablet 
 3. Boven op de knop rechts van de tablet. 
+
+![2025-05-28 14 28 07](https://github.com/user-attachments/assets/691fefed-e4eb-4b8a-b86c-e2601a5df3a1)
 
 Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verlichting in de spreekkamer beneden moet je even apart uitzetten.
 
@@ -32,7 +35,9 @@ We hebben drie spreekkamers en een belcel genaamd Bella:
  - TV met Chromecast
  - whiteboard 
 4. Belcel:
- - 1-2 personen 
+ - 1-2 personen
+
+![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
 Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan hebben we hier binnenkort een site voor. Dan betaal je 5 euro per uur. Externen betalen 25-30 euro per uur.
 
@@ -71,6 +76,8 @@ Je mag iemand altijd aanspreken op zijn gedrag als je er last van hebt of als he
 # Whatsapp Community
 We hebben een community met daarin een aantal groepen. Je zit sowieso in de Actieve Leden groep, daar haal ik mensen ook echt uit als ze weg gaan. Veel oud-leden en vrienden hangen in de Vrienden van de Spot groep.
 
+![Whatsapp Community](https://github.com/user-attachments/assets/0222d013-644e-4d21-b890-a84ff4f836b0)
+
 Alle groepen zijn informeel. De actieve leden groep is meer voor kantoorgerelateerde zaken, de echte onzin kan beter in de vrienden groep :)
 
 # Internet
@@ -94,6 +101,8 @@ Meestal begint het programma om 19:30, daarvoor bestellen we iets te eten. Alles
 # Zonwering 
 Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
 Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
+
+![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
 
 # Vrijdagmiddagborrel
 Hoewel de vrijdagmiddagborrel steeds minder officieel is, pakken we er nog steeds graag een biertje bij. Soms werken we dan nog lafjes even door. Voel je vrij om de borrel te openen!
