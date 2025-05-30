@@ -7,8 +7,13 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
 Ben je als eerste op kantoor dan kun je hiermee de deur openen, ga je als laatste weg dan graag de deur op slot draaien. Hij gaat niet automatisch op slot namelijk. Ben je op rare tijden alleen aanwezig dan kun je de deur altijd op slot draaien van binnenuit.
 
-Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem aan te raken. Open de app. De app gaat via bluetooth zoeken naar het voordeurslot en er komt een knop in beeld. Druk op die knop en de lampjes op het slot worden groen. Nu heb je een paar seconden om het slot twee keer rond te draaien. Dit geldt voor zowel het openen als het afsluiten.
+Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem aan te raken. Open de app. De app gaat via Bluetooth zoeken naar het voordeurslot en er komt een knop in beeld. Druk op die knop en de lampjes op het slot worden groen. Nu heb je een paar seconden om het slot twee keer rond te draaien. 
+
+Het afsluiten werkt net zo, maar nu draai je twee keer de andere kant op. 
+
 ![2025-05-28 14 28 51](https://github.com/user-attachments/assets/938ed0e9-064e-4da0-b7f3-25249c895365)
+
+Als je een Android hebt kun je ook de app openen en je telefoon tegen het slot aanhouden. Dan gebruikt hij NFC in plaats van Bluetooth. Deze optie is niet beschikbaar voor iOS.
 
 # Verlichting
 Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie plekken:
@@ -25,17 +30,17 @@ Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verli
 We hebben drie spreekkamers en een belcel genaamd Bella:
 
 1. Kamer 1: beneden:
- - 6 personen
- - TV met Chromecast
- - Whiteboard 
+    - 6 personen
+    - TV met Chromecast
+    - Whiteboard 
 2. Kamer 2: boven links
- - 4 personen
+    - 4 personen
 3. Kamer 3: boven rechts
- - 6 personen
- - TV met Chromecast
- - whiteboard 
+    - 6 personen
+    - TV met Chromecast
+    - Whiteboard 
 4. Belcel:
- - 1-2 personen
+    - 1-2 personen
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
@@ -97,6 +102,8 @@ Meestal begint het programma om 19:30, daarvoor bestellen we iets te eten. Alles
 - Glas: mag in de voorraadkast
 - Rest: in de zwarte container in de keuken, de rechter bak. 
 - Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
+
+<img src="https://github.com/user-attachments/assets/ff93ff9e-27e8-42ea-94c3-34c49526f1df" width="500">
 
 # Zonwering 
 Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
