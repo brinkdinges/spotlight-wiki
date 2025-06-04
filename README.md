@@ -2,7 +2,6 @@ Welkom bij Spotlight, de leukste coworking space voor ondernemers in Enschede.
 
 In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informatie netjes op één plek verzameld.
 
-Hoofdstukken:
 1. [Kantoor](#kantoor)
 2. [Abonnementen](#abonnementen)
 3. [Communicatie](#communicatie)
@@ -97,19 +96,46 @@ Vlekken in het tapijt kun je het beste zo snel mogelijk schoonmaken. Het trekt e
 
 # Abonnementen
 ## Flex Desk 
-Heb je een Flex Desk abonnement, dan kun je gebruik maken van elk beschikbaar bureau. Aan het eind van je dag laat je het bureau weer leeg achter. Je mag wel spullen achterlaten in een van de kasten. Het is niet toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
+Heb je een Flex Desk abonnement, dan kun je gebruik maken van elk beschikbaar bureau. Aan het eind van je dag laat je het bureau weer leeg achter. Je mag wel spullen achterlaten in een van de kasten. 
+
+- Je krijgt toegang tot de voordeur.
+- Je mag gebruik maken van alle voorzieningen.
+- Het is **niet** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
+- (soon) Je kunt een spreekkamer reserveren voor 5 euro per uur.
+- Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 ## Dedicated Desk 
-Heb je een Dedicated Desk abonnement, dan mag je een bureau claimen wat helemaal voor jou is. Je mag ook ons adres gebruiken als bedrijfsadres bij de KVK.
-Je krijgt bij elk abonnement toegang tot de voordeur en tot alle voorzieningen.
+Heb je een Dedicated Desk abonnement, dan mag je een bureau claimen wat helemaal voor jou is. 
 
-## Veranderingen aanbrengen
+- Je krijgt toegang tot de voordeur.
+- Je mag gebruik maken van alle voorzieningen.
+- Het is **wel** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
+- (soon) Je kunt een spreekkamer reserveren voor 5 euro per uur.
+- Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
+
+## Vijfdagenpas
+Ben je niet zo vaak in Enschede, of zoek je gewoon af en toe een leuke werkplek? Dan is onze vijfdagenpas wat voor jou. 
+
+- Je betaalt vooraf voor de strippenkaart.
+- Je krijgt daarna elke dag dat je bij Spotlight zit een stempel op je kaart. Deze dagen hoeven niet aansluitend te zijn.
+- Je krijgt **geen** toegang tot de voordeur. Dit krijg je wel bij een Flex of Dedicated Desk abonnement.
+- Het is niet toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
+
+## Vriend van de Spot
+Voor 10 of 20 euro per maand kun je vriend van de Spotlight worden. Zo help je ons een handje, maar je krijgt er ook iets voor terug:
+
+- Je wordt uitgenodigd voor onze WhatsApp community
+- Je krijgt jaarlijks een vijfdagenpas
+- Je wordt uitgenodigd voor onze maandelijkse Community Night
+
+We factureren jaarlijks vooraf. Je krijgt van tevoren wel een herinnering.
+
+Het enige verschil tussen het 10 en 20 euro abbo is de prijs. Onze dank is groot 🙏
+
+## Je abonnement wijzigen 
 - Je hebt een maand opzegtermijn per laatste van de maand. Zeg je 20 november op, dan loopt je abonnement tot eind december.
 - Je kunt maandelijks switchen tussen abonnementsvormen. Hiervoor moet je bij Peter zijn.
 - Het pauzeren van je abonnement kan in overleg.
-
-## Facturatie
-Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 # Communicatie 
 
