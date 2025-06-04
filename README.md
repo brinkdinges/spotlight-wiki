@@ -3,7 +3,15 @@ Welkom bij Spotlight, de leukste coworking space voor ondernemers in Enschede.
 
 In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informatie netjes op één plek verzameld.
 
-# Voordeur
+Hoofdstukken:
+1. [Kantoor](#kantoor)
+2. [Abonnementen](#abonnementen)
+3. [Commiunicatie](#communicatie)
+4. [Sociaal](#sociaal)
+5. [Intrastructuur](#infrastructuur)
+
+# Kantoor 
+## Voordeur
 Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
 Ben je als eerste op kantoor dan kun je hiermee de deur openen, ga je als laatste weg dan graag de deur op slot draaien. Hij gaat niet automatisch op slot namelijk. Ben je op rare tijden alleen aanwezig dan kun je de deur altijd op slot draaien van binnenuit.
 
@@ -17,7 +25,7 @@ Pas op bij het sluiten van de deur, het slot komt net tegen het kozijn aan en bi
 
 Als je een Android hebt kun je ook de app openen en je telefoon tegen het slot aanhouden. Dan gebruikt hij NFC in plaats van Bluetooth. Deze optie is niet beschikbaar voor iOS.
 
-# Verlichting
+## Verlichting
 Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie plekken:
 
 1. Beneden op een pilaar links
@@ -28,7 +36,7 @@ Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie ple
 
 Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verlichting in de spreekkamer beneden moet je even apart uitzetten.
 
-# Spreekkamers
+## Spreekkamers
 We hebben drie spreekkamers en een belcel genaamd Bella:
 
 1. Kamer 1: beneden:
@@ -54,11 +62,39 @@ Elke spreekkamer heeft twee schakelaars:
 
 In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
 
-# Koffie, thee, bier
+## Koffie, thee, bier
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
 
-# Boodschappen 
+## Afval
+- Papier: mag in een doos gelabeld “oud papier” in de voorraadkast.
+- Glas: mag in de voorraadkast
+- Rest: in de zwarte container in de keuken, de rechter bak. 
+- Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
+
+<img src="https://github.com/user-attachments/assets/ff93ff9e-27e8-42ea-94c3-34c49526f1df" width="500">
+
+## Zonwering 
+Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
+Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
+
+![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
+
+## Warmte
+Ja, het is warm. Nee, Domijn gaat daar niks aan doen. Ja, we zijn bezig met meer ventilatie en een airco.
+
+Wat je zelf kunt doen:
+- Zet de ventilatie in de spreekkamers aan als je erin zit middels de onderste lichtknop.
+- Zorg dat de zonneschermen omlaag zijn als het zonnig is. De zon is het grootste probleem. De zonneschermen worden automatisch bediend, maar soms zit de aansturing er toch naast.
+- Zet een kleine ventilator op je bureau. Een beetje wind helpt enorm.
+- Zet de grote ventilator 's nachts hard aan door middel van de draaiknop in de voorraadkast. Hierdoor koelt het 2-3 graden af in een nacht.
+
+## Boodschappen 
 We bestellen ongeveer 1 keer per maand boodschappen bij de Jumbo. Is er iets op of missen we iets? Zet het dan op de boodschappenlijst op de tablet.
+
+## Schoonmaak
+Elk weekend komt onze schoonmaakster langs om te stofzuigen, de wc's en de keuken schoon te maken en de bureaus af te nemen. Mist ze systematisch een plekje, geef het dan even door of pak het zelf even op.
+
+Vlekken in het tapijt kun je het beste zo snel mogelijk schoonmaken. Het trekt er namelijk snel in en we hebben erg weinig reserve tapijttegels.
 
 # Abonnementen
 ## Flex Desk 
@@ -73,51 +109,46 @@ Je krijgt bij elk abonnement toegang tot de voordeur en tot alle voorzieningen.
 - Je kunt maandelijks switchen tussen abonnementsvormen. Hiervoor moet je bij Peter zijn.
 - Het pauzeren van je abonnement kan in overleg.
 
-# Facturatie
+## Facturatie
 Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
-# Gezelligheid vs stilte 
-We houden hier allemaal van rust en we houden allemaal van gezelligheid. Een gesprek of een belletje achter je bureau is prima, maar houd wel rekening met de mensen om je heen. Maak gerust gebruik van een spreekkamer voor een lang of luid gesprek.
-Je mag iemand altijd aanspreken op zijn gedrag als je er last van hebt of als het echt even niet goed uit komt voor jou.
+# Communicatie 
 
-# Whatsapp Community
-We hebben een community met daarin een aantal groepen. Je zit sowieso in de Actieve Leden groep, daar haal ik mensen ook echt uit als ze weg gaan. Veel oud-leden en vrienden hangen in de Vrienden van de Spot groep.
+## WhatsApp Community
+We hebben een Whatspp community met daarin een aantal groepen. Je zit sowieso in de Actieve Leden groep, daar haal ik mensen ook echt uit als ze weg gaan. Veel oud-leden en vrienden hangen in de Vrienden van de Spot groep.
 
 ![Whatsapp Community](https://github.com/user-attachments/assets/0222d013-644e-4d21-b890-a84ff4f836b0)
 
 Alle groepen zijn informeel. De actieve leden groep is meer voor kantoorgerelateerde zaken, de echte onzin kan beter in de vrienden groep :)
 
-# Internet
-Als het goed is heb je al toegang tot het internet. Het wachtwoord van de wifi hangt in een lijstje in de keuken. Je kunt ook gebruik maken van bedraad internet, elke paal aan het raam en elke spreekkamer heeft één aansluiting.
-We hebben snel internet: glasvezel met 1 gigabit per seconde van KPN. Als er een storing is dan kunnen we een mannetje langs laten komen.
+## Email lijst
+Deze lijst gebruiken we voor officiële communicatie. In de praktijk komt het er vooral op neer dat je elke maand een uitnodiging voor de Community Night ontvangt.
 
-# Lunch
+## Slack
+We zitten met een aantal leden ook in Slack. Dit is geen officieel of verplicht kanaal meer, het is gewoon gezellig daar.
+
+# Sociaal
+
+## Gezelligheid vs stilte 
+We houden hier allemaal van rust en we houden allemaal van gezelligheid. Een gesprek of een belletje achter je bureau is prima, maar houd wel rekening met de mensen om je heen. Maak gerust gebruik van een spreekkamer voor een lang of luid gesprek.
+Je mag iemand altijd aanspreken op zijn gedrag als je er last van hebt of als het echt even niet goed uit komt voor jou.
+
+## Lunch
 De lunch is het hoogtepunt van de dag. We mikken op 12:30, daarvoor lopen we vaak even naar de Jumbo. De lunch duurt zo lang als hij duurt. 
+
 Als je het gezellig wilt houden, begin dan niet over Andrew Tate of Trump :X
 
-# Community Night
+## Community Night
 Elke laatste woensdag van de maand houden we een Community Night. Soms gaan we iets leuks doen, soms gaan we praten over een thema of houdt iemand een presentatie. Je krijgt een uitnodiging per email en WhatsApp.
 Meestal begint het programma om 19:30, daarvoor bestellen we iets te eten. Alles is optioneel. 
 
-# Afval
-- Papier: mag in een doos gelabeld “oud papier” in de voorraadkast.
-- Glas: mag in de voorraadkast
-- Rest: in de zwarte container in de keuken, de rechter bak. 
-- Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
-
-<img src="https://github.com/user-attachments/assets/ff93ff9e-27e8-42ea-94c3-34c49526f1df" width="500">
-
-# Zonwering 
-Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
-Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
-
-![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
-
-# Vrijdagmiddagborrel
+## Vrijdagmiddagborrel
 Hoewel de vrijdagmiddagborrel steeds minder officieel is, pakken we er nog steeds graag een biertje bij. Soms werken we dan nog lafjes even door. Voel je vrij om de borrel te openen!
 
-# Email lijst
-Deze lijst gebruiken we voor officiële communicatie. In de praktijk komt het er vooral op neer dat je elke maand een uitnodiging voor de Community Night ontvangt.
+# Infrastructuur 
 
-# Slack
-We zitten met een aantal leden ook in Slack. Dit is geen officieel of verplicht kanaal meer, het is gewoon gezellig daar.
+## Internet
+Als het goed is heb je al toegang tot het internet. Het wachtwoord van de wifi hangt in een lijstje in de keuken. Je kunt ook gebruik maken van bedraad internet, elke paal aan het raam en elke spreekkamer heeft één aansluiting.
+We hebben snel internet: glasvezel met 1 gigabit per seconde van KPN. 
+
+Als er een storing is dan kunnen we een mannetje langs laten komen. Het glasvezelkastje en ons modem hangen in de meterkast. Aan de groene lampjes kun je wel zien of ze verbinding hebben.
