@@ -1,4 +1,3 @@
-# Spotlight Wiki
 Welkom bij Spotlight, de leukste coworking space voor ondernemers in Enschede.
 
 In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informatie netjes op één plek verzameld.
