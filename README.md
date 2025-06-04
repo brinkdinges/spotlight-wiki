@@ -5,7 +5,7 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 Hoofdstukken:
 1. [Kantoor](#kantoor)
 2. [Abonnementen](#abonnementen)
-3. [Commiunicatie](#communicatie)
+3. [Communicatie](#communicatie)
 4. [Sociaal](#sociaal)
 5. [Intrastructuur](#infrastructuur)
 
