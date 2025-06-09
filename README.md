@@ -60,6 +60,13 @@ Elke spreekkamer heeft twee schakelaars:
 
 In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
 
+## Printen
+We hebben een kleuren laserprinter, een Brother DCP-L3520CDW. Toevoegen aan je Windows of Mac computer is heel simpel, zoek op het netwerk naar een printer (hij heet BROTHER-PRINTER) en voeg hem toe.
+
+Wil je meer controle, of wil je scannen, dan kun je de Brother iPrint&Scan app installeren. Via de [productpagina](https://support.brother.com/g/b/producttop.aspx?c=as_ot&lang=en&prod=dcpl3520cdw_eu_as) kun je de download vinden.
+
+Nieuwe toners liggen in de kasten onder de printer. Begint hij te zeuren dat een kleur bijna op is ("toner low") en ligt er geen toner meer van die kleur, geef het dan even door.
+
 ## Koffie, thee, bier
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
 
