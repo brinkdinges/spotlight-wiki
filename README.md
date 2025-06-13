@@ -196,3 +196,13 @@ Als het goed is heb je al toegang tot het internet. Het wachtwoord van de wifi h
 We hebben snel internet: glasvezel met 1 gigabit per seconde van KPN. 
 
 Als er een storing is dan kunnen we een mannetje langs laten komen. Het glasvezelkastje en ons modem hangen in de meterkast. Aan de groene lampjes kun je wel zien of ze verbinding hebben.
+
+## Parkeren
+Je kunt voor de deur betaald parkeren voor €4 per uur, maximaal 2 uur. 
+
+Wil je langer of vaker parkeren, dan kan dat bij [Parkeerterrein Performance Factory](https://maps.app.goo.gl/zxBw2amh32gKbaNP7) voor €2 per uur of €7,50 per dag. Je kunt ook een [maandag-vrijdag abbo](https://park-spot.com/nl/subscription/the-performance-factory-enschede/product/partners-performance-factory-5-24) afnemen voor €27,50 incl btw per maand of een [24/7 abbo](https://park-spot.com/nl/subscription/the-performance-factory-enschede/product/7-x-24u-parkeren-maand-abonnement) voor €35 incl btw per maand. 
+
+We kunnen ook bezoekerspassen aanvragen. Dit gaat wel per 50 stuks, dus die hebben we nog niet aangevraagd. Domijn biedt twee types:
+
+- 3 uur parkeren: €1 ex btw
+- 24 uur parkeren: €5 ex btw
