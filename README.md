@@ -14,7 +14,7 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 We testen in juni een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens. Zo weten mensen met een vijfdagenpas waar ze aan toe zijn. Eind juli evalueren we deze test. Laat Peter dus vooral weten of je blij wordt van dit systeem. 
 
 - Maandag: Peter
-- Dinsdag: Sietske
+- Dinsdag: Inge
 - Woensdag: Sophie
 - Donderdag: nog in te vullen
 - Vrijdag: Sirp
