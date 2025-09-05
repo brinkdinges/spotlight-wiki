@@ -16,7 +16,7 @@ We testen in juni een systeem waarbij er altijd iemand aanwezig is om 9 uur 's m
 - Maandag: Peter
 - Dinsdag: Inge
 - Woensdag: Sophie
-- Donderdag: nog in te vullen
+- Donderdag: Frank
 - Vrijdag: Sirp
 
 Inge speelt regelmatig vliegende keep en Sietske is ook vaak vroeg aanwezig. 
