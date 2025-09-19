@@ -112,10 +112,10 @@ Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
 ![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
 
 ## Warmte
-Ja, het is warm. Nee, Domijn gaat daar niks aan doen. Ja, we zijn bezig met meer ventilatie en een airco.
+Ja, het is warm. Nee, Domijn gaat daar niks aan doen. Ja, we zijn bezig met meer ventilatie.
 
 Wat je zelf kunt doen:
-- Zet de ventilatie in de spreekkamers aan als je erin zit middels de onderste lichtknop.
+- Zet de airco en ventilatie in de spreekkamers aan als je erin zit middels de onderste lichtknop.
 - Zorg dat de zonneschermen omlaag zijn als het zonnig is. De zon is het grootste probleem. De zonneschermen worden automatisch bediend, maar soms zit de aansturing er toch naast.
 - Zet een kleine ventilator op je bureau. Een beetje wind helpt enorm.
 - Zet de grote ventilator 's nachts hard aan door middel van de draaiknop in de voorraadkast. Hierdoor koelt het 2-3 graden af in een nacht.
