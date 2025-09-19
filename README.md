@@ -46,29 +46,44 @@ Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie ple
 
 Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verlichting in de spreekkamer beneden moet je even apart uitzetten.
 
-## Spreekkamers
-We hebben drie spreekkamers en een belcel genaamd Bella:
+## Airco 
+Elke ruimte beschikt over een airco. Je kunt deze bedienen met een afstandsbediening: mik op de airco en het werkt. De afstandsbedieningen zijn niet gekoppeld aan de airco, dus je kunt ze voor elke unit gebruiken.
 
-1. Kamer 1: beneden:
-    - 6 personen
-    - TV met Chromecast
-    - Whiteboard 
-2. Kamer 2: boven links
-    - 4 personen
-3. Kamer 3: boven rechts
-    - 6 personen
-    - TV met Chromecast
-    - Whiteboard 
-4. Belcel:
-    - 1-2 personen
+De airco heeft vijf standen (cooling, drying, fan, auto, heating). Het gebruik van de Auto stand is ons sterk afgeraden.
+
+Zet de airco svp uit of minder hard als het niet nodig is, ze vreten stroom namelijk.
+
+## Vergaderruimtes
+We hebben drie vergaderruimtes en een belcel genaamd Bella.
+
+Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan kan dat [hier](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/?ismsaljsauthenabled). Voor het reserveren rekenen we 5 euro per uur.
+
+Externen kunnen [hier reserveren](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/?ismsaljsauthenabled), zij betalen 15-25 euro per uur.
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
-Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan hebben we hier binnenkort een site voor. Dan betaal je 5 euro per uur. Externen betalen 25-30 euro per uur.
+1. Kamer 1 - beneden:
+    - 6 personen
+    - TV met Chromecast
+    - Whiteboard 
+	- Airco 
+2. Kamer 2 - boven links
+    - 4 personen
+	- Airco 
+3. Kamer 3 - boven rechts
+    - 6 personen
+    - TV met Chromecast
+    - Whiteboard 
+	- Airco 
+4. Belcel:
+    - 1-2 personen
 
+### Verlichting, airco, ventilatie 
 Elke spreekkamer heeft twee schakelaars:
 - De bovenste is voor verlichting
 - De onderste is voor de ventilatie. De spreekkamers boven delen een ventilator, dus deze gaat aan als één van de spreekkamers de schakelaar aan zet.
+
+De airco kun je bedienen met de afstandsbediening die in de ruimte aanwezig is. Kun je hem niet vinden dan kun je ook een andere afstandsbediening gebruiken, ze zijn niet gekoppeld aan het apparaat. Je kunt de airco ook via de Home Assistant app op de tablet bedienen.
 
 In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
 
