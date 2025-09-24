@@ -56,9 +56,9 @@ Zet de airco svp uit of minder hard als het niet nodig is, ze vreten stroom name
 ## Vergaderruimtes
 We hebben drie vergaderruimtes en een belcel genaamd Bella.
 
-Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan kan dat [hier](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/?ismsaljsauthenabled). Voor het reserveren rekenen we 5 euro per uur.
+Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan kan dat [hier](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/). Voor het reserveren rekenen we 5 euro per uur.
 
-Externen kunnen [hier reserveren](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/?ismsaljsauthenabled), zij betalen 15-25 euro per uur.
+Externen kunnen [hier reserveren](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/), zij betalen 15-25 euro per uur.
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
@@ -135,7 +135,7 @@ Heb je een Flex Desk abonnement, dan kun je gebruik maken van elk beschikbaar bu
 - Je krijgt toegang tot de voordeur.
 - Je mag gebruik maken van alle voorzieningen.
 - Het is **niet** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
-- (soon) Je kunt een spreekkamer reserveren voor 5 euro per uur.
+- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
 - Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 ## Dedicated Desk 
@@ -144,7 +144,7 @@ Heb je een Dedicated Desk abonnement, dan mag je een bureau claimen wat helemaal
 - Je krijgt toegang tot de voordeur.
 - Je mag gebruik maken van alle voorzieningen.
 - Het is **wel** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
-- (soon) Je kunt een spreekkamer reserveren voor 5 euro per uur.
+- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
 - Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 ## Vijfdagenpas
