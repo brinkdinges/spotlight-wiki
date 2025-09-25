@@ -11,7 +11,7 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 # Kantoor 
 
 ## Openingstijden
-We testen in juni een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens. Zo weten mensen met een vijfdagenpas waar ze aan toe zijn. Eind juli evalueren we deze test. Laat Peter dus vooral weten of je blij wordt van dit systeem. 
+We hanteren een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens. Zo weten mensen met een vijfdagenpas waar ze aan toe zijn. 
 
 - Maandag: Peter
 - Dinsdag: Inge
@@ -19,7 +19,7 @@ We testen in juni een systeem waarbij er altijd iemand aanwezig is om 9 uur 's m
 - Donderdag: nog in te vullen
 - Vrijdag: Sirp
 
-Inge speelt regelmatig vliegende keep en Sietske is ook vaak vroeg aanwezig. 
+Inge speelt regelmatig vliegende keep en Frank, Wico en Sietske zijn ook vaak vroeg aanwezig. 
 
 ## Voordeur
 Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
@@ -33,7 +33,7 @@ Pas op bij het sluiten van de deur, het slot komt net tegen het kozijn aan en bi
 
 ![2025-05-28 14 28 51](https://github.com/user-attachments/assets/938ed0e9-064e-4da0-b7f3-25249c895365)
 
-Als je een Android hebt kun je ook de app openen en je telefoon tegen het slot aanhouden. Dan gebruikt hij NFC in plaats van Bluetooth. Deze optie is niet beschikbaar voor iOS.
+Als je een Android hebt kun je ook je telefoon tegen het slot aanhouden om hem te activeren. Dan gebruik je NFC in plaats van Bluetooth. Deze optie is niet beschikbaar voor iOS.
 
 ## Verlichting
 Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie plekken:
@@ -56,9 +56,11 @@ Zet de airco svp uit of minder hard als het niet nodig is, ze vreten stroom name
 ## Vergaderruimtes
 We hebben drie vergaderruimtes en een belcel genaamd Bella.
 
-Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Wil je er een reserveren, dan kan dat [hier](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/). Voor het reserveren rekenen we 5 euro per uur.
+Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier reserveren](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/) voor een later moment. Voor het reserveren rekenen we 5 euro per uur.
 
-Externen kunnen [hier reserveren](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/), zij betalen 15-25 euro per uur.
+Op de tablet, in de Home Assistant app, kun je zien of een vergaderruimte beschikbaar is. Er staat ook een link naar de booking pagina op het dashboard.
+
+We hebben een aparte boeking pagina [voor externen](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/), zij betalen 15-25 euro per uur.
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
@@ -98,7 +100,7 @@ Nieuwe toners liggen in de kasten onder de printer. Begint hij te zeuren dat een
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
 
 ## Afval
-- Papier: mag in een doos gelabeld “oud papier” in de voorraadkast.
+- Papier: mag in een doos in de voorraadkast.
 - Glas: mag in de voorraadkast
 - Rest: in de zwarte container in de keuken, de rechter bak. 
 - Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
@@ -107,7 +109,7 @@ In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen 
 
 ## Zonwering 
 Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
-Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
+Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet. Dus zet ze even naar boven als je naar huis gaat.
 
 ![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
 
@@ -153,6 +155,7 @@ Ben je niet zo vaak in Enschede, of zoek je gewoon af en toe een leuke werkplek?
 - Je betaalt vooraf voor de strippenkaart.
 - Je krijgt daarna elke dag dat je bij Spotlight zit een stempel op je kaart. Deze dagen hoeven niet aansluitend te zijn.
 - Je krijgt **geen** toegang tot de voordeur. Dit krijg je wel bij een Flex of Dedicated Desk abonnement.
+- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
 - Het is niet toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
 
 ## Vriend van de Spot
@@ -210,7 +213,7 @@ Hoewel de vrijdagmiddagborrel steeds minder officieel is, pakken we er nog steed
 Als het goed is heb je al toegang tot het internet. Het wachtwoord van de wifi hangt in een lijstje in de keuken. Je kunt ook gebruik maken van bedraad internet, elke paal aan het raam en elke spreekkamer heeft één aansluiting.
 We hebben snel internet: glasvezel met 1 gigabit per seconde van KPN. 
 
-Als er een storing is dan kunnen we een mannetje langs laten komen. Het glasvezelkastje en ons modem hangen in de meterkast. Aan de groene lampjes kun je wel zien of ze verbinding hebben.
+Als er een storing is dan kunnen we een mannetje langs laten komen. Het glasvezelkastje en ons modem hangen in de meterkast. Aan de groene lampjes kun je zien of we verbinding hebben.
 
 ## Parkeren
 Je kunt voor de deur betaald parkeren voor €4 per uur, maximaal 2 uur. 
