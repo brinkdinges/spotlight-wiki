@@ -224,3 +224,5 @@ We kunnen ook bezoekerspassen aanvragen. Dit gaat wel per 50 stuks, dus die hebb
 
 - 3 uur parkeren: €2 ex btw
 - 24 uur parkeren: €5 ex btw
+
+We krijgen dan een stapel uitrijkaarten voor de parkeergarage. Je kunt je klant zo'n uitrijkaart meegeven. Die scannen ze, samen met hun eigen kaartje, en dan kunnen ze gratis uitrijden.
