@@ -14,8 +14,8 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 We hanteren een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens. Zo weten mensen met een vijfdagenpas waar ze aan toe zijn. 
 
 - Maandag: Peter
-- Dinsdag: Inge
-- Woensdag: Sophie
+- Dinsdag: Sophie
+- Woensdag: Inge
 - Donderdag: nog in te vullen
 - Vrijdag: Sirp
 
