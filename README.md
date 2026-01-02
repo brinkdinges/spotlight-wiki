@@ -56,7 +56,7 @@ Zet de airco svp uit of minder hard als het niet nodig is, ze vreten stroom name
 ## Vergaderruimtes
 We hebben drie vergaderruimtes en een belcel genaamd Bella.
 
-Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier reserveren](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/) voor een later moment. Voor het reserveren rekenen we 5 euro per uur.
+Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier reserveren](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/) voor een later moment. Voor het reserveren rekenen we voor leden en vijfdagenpassers geen geld. Reserveer vooral, zo kunnen anderen zien wanneer een spreekkamer bezet is.
 
 Op de tablet, in de Home Assistant app, kun je zien of een vergaderruimte beschikbaar is. Er staat ook een link naar de booking pagina op het dashboard.
 
