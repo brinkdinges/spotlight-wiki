@@ -47,7 +47,7 @@ Je kunt alle verlichting met één knop in- of uitschakelen. Dat kan op drie ple
 Elke knop heeft vier posities, maar die doen allemaal hetzelfde. Alleen de verlichting in de spreekkamer beneden moet je even apart uitzetten.
 
 ## Airco 
-Elke ruimte beschikt over een airco. Je kunt deze bedienen met een afstandsbediening: mik op de airco en het werkt. De afstandsbedieningen zijn niet gekoppeld aan de airco, dus je kunt ze voor elke unit gebruiken.
+Elke ruimte beschikt over een airco. Je kunt ze het beste bedienen met de tablet. Met de afstandsbediening kan ook (richten, drukken, airco piept als hij het commando ontvangen heeft), maar de afstandsbediening is niet gekoppeld aan één airco (soms is dat handig) en heeft niet door dat de airco al in een andere stand staat via de tablet. Via de tablet werkt dus beter.
 
 De airco heeft vijf standen (cooling, drying, fan, auto, heating). Het gebruik van de Auto stand is ons sterk afgeraden.
 
@@ -85,7 +85,7 @@ Elke spreekkamer heeft twee schakelaars:
 - De bovenste is voor verlichting
 - De onderste is voor de ventilatie. De spreekkamers boven delen een ventilator, dus deze gaat aan als één van de spreekkamers de schakelaar aan zet.
 
-De airco kun je bedienen met de afstandsbediening die in de ruimte aanwezig is. Kun je hem niet vinden dan kun je ook een andere afstandsbediening gebruiken, ze zijn niet gekoppeld aan het apparaat. Je kunt de airco ook via de Home Assistant app op de tablet bedienen.
+De airco kun je het beste bedienen via de Home Assistant app op tablet, maar de afstandsbediening die in elke ruimte aanwezig is werkt ook. Kun je hem niet vinden dan kun je ook een andere afstandsbediening gebruiken, ze zijn niet gekoppeld aan het apparaat. 
 
 In Bella werkt alles automatisch, boven je zit zelfs een 230V en USB aansluiting.
 
@@ -100,7 +100,7 @@ Nieuwe toners liggen in de kasten onder de printer. Begint hij te zeuren dat een
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
 
 ## Afval
-- Papier: mag in een doos in de voorraadkast.
+- Papier: mag in een doos in de houten kast achterin.
 - Glas: mag in de voorraadkast
 - Rest: in de zwarte container in de keuken, de rechter bak. 
 - Plastic en blik: in de zwarte container in de keuken, de linker en middelste bak. De gemeente Enschede noemt dit “verpakkingen”, zie het plaatje hieronder.
@@ -108,7 +108,7 @@ In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen 
 <img src="https://github.com/user-attachments/assets/ff93ff9e-27e8-42ea-94c3-34c49526f1df" width="500">
 
 ## Zonwering 
-Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast.
+Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast. Gebruik de middelste knop om de zonnewering halverwege stil te zetten.
 Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet. Dus zet ze even naar boven als je naar huis gaat.
 
 ![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
@@ -117,7 +117,7 @@ Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet.
 Ja, het is warm. Nee, Domijn gaat daar niks aan doen. Ja, we zijn bezig met meer ventilatie.
 
 Wat je zelf kunt doen:
-- Zet de airco en ventilatie in de spreekkamers aan als je erin zit middels de onderste lichtknop.
+- Zet de airco (via de tablet/afstandsbediening) en ventilatie (middels de onderste lichtknop) in de spreekkamers aan als je erin zit.
 - Zorg dat de zonneschermen omlaag zijn als het zonnig is. De zon is het grootste probleem. De zonneschermen worden automatisch bediend, maar soms zit de aansturing er toch naast.
 - Zet een kleine ventilator op je bureau. Een beetje wind helpt enorm.
 - Zet de grote ventilator 's nachts hard aan door middel van de draaiknop in de voorraadkast. Hierdoor koelt het 2-3 graden af in een nacht.
@@ -137,7 +137,7 @@ Heb je een Flex Desk abonnement, dan kun je gebruik maken van elk beschikbaar bu
 - Je krijgt toegang tot de voordeur.
 - Je mag gebruik maken van alle voorzieningen.
 - Het is **niet** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
-- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
+- Je kunt gratis vergaderruimtes reserveren.
 - Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 ## Dedicated Desk 
@@ -146,7 +146,7 @@ Heb je een Dedicated Desk abonnement, dan mag je een bureau claimen wat helemaal
 - Je krijgt toegang tot de voordeur.
 - Je mag gebruik maken van alle voorzieningen.
 - Het is **wel** toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
-- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
+- Je kunt gratis vergaderruimtes reserveren.
 - Je krijgt elke eerste dag van de maand een factuur. Deze kun je betalen met iDEAL, overschrijving en meer.
 
 ## Vijfdagenpas
@@ -155,7 +155,7 @@ Ben je niet zo vaak in Enschede, of zoek je gewoon af en toe een leuke werkplek?
 - Je betaalt vooraf voor de strippenkaart.
 - Je krijgt daarna elke dag dat je bij Spotlight zit een stempel op je kaart. Deze dagen hoeven niet aansluitend te zijn.
 - Je krijgt **geen** toegang tot de voordeur. Dit krijg je wel bij een Flex of Dedicated Desk abonnement.
-- Je kunt vergaderruimtes reserveren voor 5 euro per uur.
+- Je kunt gratis vergaderruimtes reserveren.
 - Het is niet toegestaan je ons adres te gebruiken als je bedrijfsadres bij de KVK.
 
 ## Vriend van de Spot
