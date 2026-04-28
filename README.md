@@ -99,6 +99,8 @@ Nieuwe toners liggen in de kasten onder de printer. Begint hij te zeuren dat een
 ## Koffie, thee, bier
 In principe is je abonnement all-in, dus pak gerust iets te drinken, batterijen of papier uit de kast. Printen mag ook. Alleen de Nespresso cups worden door de leden zelf betaald, daarvoor kopen we samen elke paar maand groot in. Sommige mensen nemen hun eigen favoriete cups mee.
 
+Mocht de Nespresso ineens te weinig of teveel koffie zetten voor een kop dan moet je hem resetten. Druk eerst beide knoppen in om hem uit te zetten en daarna lang de rechter knop totdat de lampjes snel knipperen. Dan is het resetten gelukt.
+
 ## Afval
 - Papier: mag in een doos in de houten kast achterin.
 - Glas: mag in de voorraadkast
