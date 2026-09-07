@@ -22,7 +22,7 @@ We hanteren een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens
 Inge speelt regelmatig vliegende keep en Frank, Wico en Sietske zijn ook vaak vroeg aanwezig. 
 
 ## Voordeur
-Je krijgt een sms met een uitnodiging voor de EVVA Airkey app. Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
+Je krijgt een sms met een uitnodiging voor de EVVA Airkey app (download: [Android](https://play.google.com/store/apps/details?id=com.evva.airkey) / [iOS](https://apps.apple.com/nl/app/evva-airkey/id1167529896)). Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
 Ben je als eerste op kantoor dan kun je hiermee de deur openen, ga je als laatste weg dan graag de deur op slot draaien. Hij gaat niet automatisch op slot namelijk. Ben je op rare tijden alleen aanwezig dan kun je de deur altijd op slot draaien van binnenuit.
 
 Als je in de buurt van de voordeur bent, maak dan het slot even wakker door hem aan te raken. Open de app. De app gaat via Bluetooth zoeken naar het voordeurslot en er komt een knop in beeld. Druk op die knop en de lampjes op het slot worden groen. Nu heb je een paar seconden om het slot twee keer rond te draaien. 
