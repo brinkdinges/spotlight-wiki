@@ -102,7 +102,7 @@ Mocht de Nespresso ineens te weinig of teveel koffie zetten voor een kop dan moe
 <img src="https://github.com/user-attachments/assets/ff93ff9e-27e8-42ea-94c3-34c49526f1df" width="500">
 
 ## Zonwering 
-Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn los te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars op de witte kast. Gebruik de middelste knop om de zonnewering halverwege stil te zetten.
+Alle ramen zijn voorzien van zonwering (screens) aan de buitenkant. De zuidkant en westkant zijn apart te besturen. Ze worden automatisch oplaag gezet als het zonnig is en gaan omhoog als de zon weg is of als het hard waait. Werkt dit niet goed, dan kun je ze altijd zelf omlaag/omhoog zetten met de twee schakelaars aan de tablet pilaar. Gebruik de middelste knop om de zonnewering halverwege stil te zetten.
 Soms gaan ze niet meer automatisch omhoog als je ze handmatig omlaag hebt gezet. Dus zet ze even naar boven als je naar huis gaat.
 
 ![2025-05-28 14 39 34](https://github.com/user-attachments/assets/a2a2e74f-e1b1-469e-bc4b-3b4e89ff9f32)
