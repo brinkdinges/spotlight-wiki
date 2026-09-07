@@ -11,15 +11,7 @@ In dit document leggen we uit hoe we werken en waarom. Zo hebben we alle informa
 # Kantoor 
 
 ## Openingstijden
-We hanteren een systeem waarbij er altijd iemand aanwezig is om 9 uur 's morgens. Zo weten mensen met een vijfdagenpas waar ze aan toe zijn. 
-
-- Maandag: Peter
-- Dinsdag: Sophie
-- Woensdag: Inge
-- Donderdag: nog in te vullen
-- Vrijdag: Sirp
-
-Inge speelt regelmatig vliegende keep en Frank, Wico en Sietske zijn ook vaak vroeg aanwezig. 
+We hebben op dit moment geen vaste openingstijden. Artur, Inge en Guus zijn wel vaak vroeg aanwezig dus meestal zijn we open vanaf 9 uur.
 
 ## Voordeur
 Je krijgt een sms met een uitnodiging voor de EVVA Airkey app (download: [Android](https://play.google.com/store/apps/details?id=com.evva.airkey) / [iOS](https://apps.apple.com/nl/app/evva-airkey/id1167529896)). Installeer de app en accepteer alle permissies, anders werkt hij echt niet.
