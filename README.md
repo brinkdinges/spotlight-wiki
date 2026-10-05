@@ -52,7 +52,7 @@ Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier 
 
 Op de tablet, in de Home Assistant app, kun je zien of een vergaderruimte beschikbaar is. Je kunt vanaf de tablet ook een nieuwe boeking doen.
 
-We hebben een aparte boeking pagina [voor externen](https://staging.spotlight.space/vergaderruimte-huren-in-enschede/), zij betalen 15-25 euro per uur.
+We hebben een aparte boeking pagina [voor externen](https://spotlight.space/vergaderruimte-huren-in-enschede/), zij betalen 15-25 euro per uur.
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
