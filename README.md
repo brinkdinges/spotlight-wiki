@@ -48,28 +48,28 @@ Zet de airco svp uit of minder hard als het niet nodig is, ze vreten stroom name
 ## Vergaderruimtes
 We hebben drie vergaderruimtes en een belcel genaamd Bella.
 
-Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier reserveren](https://outlook.office.com/book/SpotlightCoworkingvoorleden@spotlight.space/) voor een later moment. Voor het reserveren rekenen we voor leden en vijfdagenpassers geen geld. Reserveer vooral, zo kunnen anderen zien wanneer een spreekkamer bezet is.
+Je kunt altijd een spreekkamer pakken als deze beschikbaar is. Je kunt ze [hier reserveren](https://spotlight.space/intern-reserveren/) voor een later moment. Voor het reserveren rekenen we voor leden en vijfdagenpassers geen geld. Reserveer vooral, zo kunnen anderen zien wanneer een spreekkamer bezet is.
 
-Op de tablet, in de Home Assistant app, kun je zien of een vergaderruimte beschikbaar is. Er staat ook een link naar de booking pagina op het dashboard.
+Op de tablet, in de Home Assistant app, kun je zien of een vergaderruimte beschikbaar is. Je kunt vanaf de tablet ook een nieuwe boeking doen.
 
-We hebben een aparte boeking pagina [voor externen](https://outlook.office.com/book/SpotlightCoworking@spotlight.space/), zij betalen 15-25 euro per uur.
+We hebben een aparte boeking pagina [voor externen](https://staging.spotlight.space/vergaderruimte-huren-in-enschede/), zij betalen 15-25 euro per uur.
 
 ![2025-05-28 14 28 25](https://github.com/user-attachments/assets/5849f310-fbd5-4d49-aecb-fe39b12b0c2d)
 
-1. Kamer 1 - beneden:
+1. Kamer 1 - The Boardroom - beneden:
     - 6 personen
     - TV met Chromecast
     - Whiteboard 
 	- Airco 
-2. Kamer 2 - boven links
+2. Kamer 2 - The Intern - boven links
     - 4 personen
 	- Airco 
-3. Kamer 3 - boven rechts
+3. Kamer 3 - The Brainstormer - boven rechts
     - 6 personen
     - TV met Chromecast
     - Whiteboard 
 	- Airco 
-4. Belcel:
+4. Belcel - Bella:
     - 1-2 personen
 
 ### Verlichting, airco, ventilatie 
